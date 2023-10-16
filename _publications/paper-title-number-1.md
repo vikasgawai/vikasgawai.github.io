@@ -1,6 +1,5 @@
 ---
-title: "Discrimination in Science: Salaries of Foreign and US
-Born Land-Grant University Scientists"
+title: "Discrimination in Science: Salaries of Foreign and US Born Land-Grant University Scientists"
 collection: publications
 permalink: /publication/paper-title-number-1
 #excerpt: ''
